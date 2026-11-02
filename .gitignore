@@ -1,0 +1,26 @@
+# macOS
+.DS_Store
+
+# Eclipse workspace files
+.metadata/
+.settings/org.eclipse.core.resources.prefs
+
+# Java build output
+build/
+bin/
+target/
+*.class
+
+# Logs
+*.log
+
+# Local database credentials
+db.properties
+
+# IDE files
+.idea/
+.vscode/
+
+# Temporary files
+*.tmp
+*.bak
